@@ -21,7 +21,7 @@ Abra o arquivo `.pbix` no Power BI Desktop. Caso os dados não carreguem automat
 
 | Componente | Tecnologia | Versão | Descrição |
 | :--- | :--- | :--- | :--- |
-| **Plataforma BI** | **Power BI** | `-` | **Plataforma de BI** para o desenvolvimento de dashboards e relatórios analíticos. |
+| **Plataforma BI** | **Power BI** | `-` | Plataforma de BI para desenvolvimento de dashboards |
 
 ### Deploy
 
